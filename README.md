@@ -5,13 +5,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=HUMAIL%20NAEEM&fontSize=70&fontColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1&desc=Full%20Stack%20Developer%20&descSize=18&descAlignY=72&descColor=8b949e" width="100%" />
-<div align="center">
 
-<a href="https://humailnaeem.com"><img src="https://img.shields.io/badge/🌐_Portfolio-humailnaeem.com-58a6ff?style=flat-square&labelColor=0d1117" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/humailnaeem"><img src="https://img.shields.io/badge/💼_LinkedIn-humailnaeem-58a6ff?style=flat-square&labelColor=0d1117" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:humailc188@gmail.com"><img src="https://img.shields.io/badge/📧_Email-humailc188-58a6ff?style=flat-square&labelColor=0d1117" alt="Email"/></a>
+<br/>
 
-</div>
+🌐 [humailnaeem.com](https://humailnaeem.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/humailnaeem) &nbsp;·&nbsp; 📧 [humailc188@gmail.com](mailto:humailc188@gmail.com)
+
 </div>
 
 
@@ -76,16 +74,7 @@
 <br/>
 
 <a href="https://github.com/humailnaeem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humailnaeem&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" alt="Humail's GitHub Stats" />
-</a>
-<a href="https://github.com/humailnaeem">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=humailnaeem&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Humail's Streak Stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/humailnaeem">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humailnaeem&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humailnaeem&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=251%2B%20Contributions%20%E2%80%94%20June%202024%20to%20June%202025&days=365" width="95%" alt="Activity Graph" />
 </a>
 
 </div>
