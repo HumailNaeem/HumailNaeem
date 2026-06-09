@@ -5,21 +5,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=HUMAIL%20NAEEM&fontSize=70&fontColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1&desc=Full%20Stack%20Developer%20&descSize=18&descAlignY=72&descColor=8b949e" width="100%" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT - Terminal Style                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-```js
-const humail = {
-    portfolio: "humailnaeem.com",        // 🌐 Check out my work
-    linkedin:  "/in/humailnaeem",        // 💼 Let's connect
-    email:     "humailc188@gmail.com",   // 📧 Reach out anytime
-};
-```
-
 <div align="center">
 
 <a href="https://humailnaeem.com"><img src="https://img.shields.io/badge/🌐_Portfolio-humailnaeem.com-58a6ff?style=flat-square&labelColor=0d1117" alt="Portfolio"/></a>&nbsp;&nbsp;
@@ -27,6 +12,9 @@ const humail = {
 <a href="mailto:humailc188@gmail.com"><img src="https://img.shields.io/badge/📧_Email-humailc188-58a6ff?style=flat-square&labelColor=0d1117" alt="Email"/></a>
 
 </div>
+</div>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK - Developer Config Style                                   -->
